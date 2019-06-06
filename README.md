@@ -58,7 +58,7 @@ And play with the Sample Contract
 ```
 let contract = await SampleContract.at("0xc321f683F50bb17997a5855E0F50972B44319D9F")
 let value = (await contract._value()).toString()
-await contract.SquareValue()
+await contract.squareValue()
 ```
 
 # Update
