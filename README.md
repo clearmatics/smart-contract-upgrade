@@ -1,4 +1,4 @@
-# Upgradable Smart Contract Example
+# Upgradeable Smart Contract Example
 
 Last year, we open-sourced our [Asset Token](https://github.com/clearmatics/asset-token) smart contract which was designed to represent a fungible asset as an ERC223 token. As we continue to develop [Autonity](https://github.com/clearmatics/autonity/), we identified the importance of being able to update smart contracts such as the Asset Token without requiring a hard fork for every new update.
 
