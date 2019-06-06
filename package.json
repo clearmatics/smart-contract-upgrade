@@ -1,0 +1,22 @@
+{
+  "name": "test_smart_contract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ganache-cli": "6.2.5",
+    "openzeppelin-eth": "^2.1.3",
+    "solhint": "2.0.0",
+    "solidity-coverage": "0.6.0-beta.5",
+    "truffle": "5.0.19",
+    "web3": "1.0.0-beta.53",
+    "zos": "2.2.3",
+    "zos-lib": "2.2.3"
+  },
+  "scripts": {
+    "compile": "truffle compile",
+    "deploy": "truffle deploy --network ci",
+    "test": "truffle test --network development",
+    "ganache": "ganache-cli --port 7545 --gasLimit 0xFFFFFFFF"
+  }
+}

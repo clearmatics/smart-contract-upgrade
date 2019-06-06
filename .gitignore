@@ -1,1 +1,11 @@
 .DS_Store
+
+.zos.session
+
+# Build
+node_modules
+build
+
+# ZeppelinOS
+zos.dev-*.json
+.zos.session
