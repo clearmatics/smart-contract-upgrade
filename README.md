@@ -59,7 +59,7 @@ await contract.SquareValue()
 
 # Update
 
-Change your SampleContract as you wish, but take care of the caveats.
+Change your SampleContract as you wish, but take care of the [caveats](https://medium.com/clearmatics/upgrading-smart-contracts-c9fb144eceb7).
 
 Push it to the network and update it!
 
