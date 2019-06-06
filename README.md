@@ -74,3 +74,5 @@ If you get this error with one of your requests:
     A network name must be provided to execute the requested action.
 
 It means that your session expired. Restore it with the same command as above.
+
+[4]: https://yarnpkg.com/en/docs/install
