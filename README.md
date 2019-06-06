@@ -1,5 +1,9 @@
 # Sample upgradable smart contract example
 
+Last year, we open-sourced our [Asset Token](https://github.com/clearmatics/asset-token) smart contract which was designed to represent a fungible asset as an ERC223 token. As we continue to develop [Autonity](https://github.com/clearmatics/autonity/), we identified the importance of being able to update smart contracts such as the Asset Token without requiring a hard fork for every new update.
+
+This repository accompanies our [Medium Post](https://medium.com/clearmatics/upgrading-smart-contracts-c9fb144eceb7) describing how to build upgradeable smart contracts. 
+
 **Prerequisites:**
 
 [yarn][1] (but [npm][2] should work just as well) needs to be installed.
