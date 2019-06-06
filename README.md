@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-[yarn][4] (but [npm][5] should work just as well) needs to be installed.
+[yarn][1] (but [npm][2] should work just as well) needs to be installed.
 
 # Step-by-step
 
@@ -75,4 +75,5 @@ If you get this error with one of your requests:
 
 It means that your session expired. Restore it with the same command as above.
 
-[4]: https://yarnpkg.com/en/docs/install
+[1]: https://yarnpkg.com/en/docs/install
+[2]: https://docs.npmjs.com/getting-started/installing-node
