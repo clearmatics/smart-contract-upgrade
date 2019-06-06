@@ -18,7 +18,7 @@ contract SampleContract is Initializable{
     }
 
     function squareValue() public {
-      _value = _value.mul(_value);
+        _value = _value.mul(_value);
     }
 
 
