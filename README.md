@@ -81,5 +81,13 @@ If you get this error with one of your requests:
 
 It means that your session expired. Restore it with the same command as above.
 
+# References
+
+* https://blog.zeppelinos.org/upgradeability-using-unstructured-storage/
+* https://blog.zeppelinos.org/the-transparent-proxy-pattern/
+* https://docs.zeppelinos.org/docs/pattern.html
+* https://medium.com/nomic-labs-blog/malicious-backdoors-in-ethereum-proxies-62629adf3357
+
+
 [1]: https://yarnpkg.com/en/docs/install
 [2]: https://docs.npmjs.com/getting-started/installing-node
