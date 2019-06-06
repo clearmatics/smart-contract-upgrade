@@ -9,3 +9,4 @@ build
 # ZeppelinOS
 zos.dev-*.json
 .zos.session
+zos.json
