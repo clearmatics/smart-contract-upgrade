@@ -1,6 +1,6 @@
 # Sample upgradable smart contract example
 
-Prerequisites:
+**Prerequisites:**
 
 [yarn][1] (but [npm][2] should work just as well) needs to be installed.
 
